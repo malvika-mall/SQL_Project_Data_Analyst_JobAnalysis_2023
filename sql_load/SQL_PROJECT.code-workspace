@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "../../malvika_mall.github.io"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../csv_files"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "postgres",
+				"database": "postgres",
+				"username": "postgres"
+			},
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "sql_course",
+				"database": "postgres",
+				"username": "postgres"
+			}
+		]
+	}
+}
