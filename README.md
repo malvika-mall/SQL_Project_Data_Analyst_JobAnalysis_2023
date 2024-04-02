@@ -48,7 +48,7 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10;
 ```
-![Top 10 High Paying Jobs](assets\top_paying_jobs.png)
+![Top 10 High Paying Jobs](assets/top_paying_jobs.png)
 
 Here's the breakdown of the top data analyst jobs in 2023:
 
@@ -117,7 +117,7 @@ Here's the breakdown of the most demanded skills for data analysts in 2023
 - SQL and Excel remain fundamental, emphasizing the need for strong foundational skills in data processing and spreadsheet manipulation.
 - Programming and Visualization Tools like Python, Tableau, and Power BI are essential, pointing towards the increasing importance of technical skills in data storytelling and decision support.
 
-![Top 5 Most Demanded Skills](assets\most_demanded_skills.png)
+![Top 5 Most Demanded Skills](assets/most_demanded_skills.png)
 
 ### 4. Skills Based on Salary
 Exploring the average salaries associated with different skills revealed which skills are the highest paying.
