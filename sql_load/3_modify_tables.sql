@@ -24,6 +24,7 @@ NOTE: If you are having issues with permissions. And you get error:
 */
 
 -- NOTE: This has been updated from the video to fix issues with encoding
+Select * from company_dim;
 
 copy company_dim FROM 'C:\Users\User01\SQL_course\csv_files\company_dim.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
 
