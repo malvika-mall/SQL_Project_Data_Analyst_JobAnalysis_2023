@@ -43,4 +43,3 @@ ORDER BY
 	demand_count DESC,
 	avg_salary DESC
 LIMIT 25;
-
